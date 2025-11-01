@@ -5,6 +5,7 @@ I'm BenPaoDeXiaoZhi(MengFuziJiaDao)
 
 - 🤔 About me
   ```javascript
+  // src/detail.js
   console.log("Hi, MengFuzi")
   const today=new Date()
   export default {
