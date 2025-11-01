@@ -18,6 +18,8 @@ I'm BenPaoDeXiaoZhi(MengFuziJiaDao)
       married:null,//???
   }
   ```
+- ✨
+  ![detail](https://githubcard.com/og/BenPaoDeXiaoZhi?size=github&theme=light)
 <!--
 **BenPaoDeXiaoZhi/BenPaoDeXiaoZhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
